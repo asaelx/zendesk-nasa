@@ -17,6 +17,10 @@ In the second table, if you click on the image link, a modal shows up with the p
 
 ![Nasa Zendesk](./assets/Screen03.jpg)
 
+The app is uploaded as a private app in Zendesk.
+
+![Nasa Zendesk](./assets/Screen04.jpg)
+
 
 ## Installation
 
