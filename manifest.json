@@ -1,5 +1,5 @@
 {
-  "name": "NASA Nav Bar",
+  "name": "NASA Nav Bar App",
   "author": {
     "name": "Asael Chavez",
     "email": "asaelx@gmail.com"
@@ -8,10 +8,7 @@
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": {
-        "url": "assets/iframe.html",
-        "flexible": true
-      }
+      "nav_bar": "http://localhost:5173/"
     }
   },
   "version": "1.0.0",

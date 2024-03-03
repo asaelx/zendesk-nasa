@@ -1,0 +1,5 @@
+@import '@zendeskgarden/css-bedrock';
+
+.clickable {
+  cursor: pointer;
+}
